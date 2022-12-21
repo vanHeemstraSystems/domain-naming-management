@@ -9,6 +9,8 @@ Based on "Deploying BIND DNS for your Home Lab - Part 1" at https://www.youtube.
 
 Based on "Deploying BIND DNS for your Home Lab - Part 2" at https://www.youtube.com/watch?v=M_lBU0iyBpA
 
+Based on "Running a DNS Server in Docker" at https://medium.com/nagoya-foundation/running-a-dns-server-in-docker-61cc2003e899
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
